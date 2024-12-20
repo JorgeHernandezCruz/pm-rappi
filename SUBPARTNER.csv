@@ -1,0 +1,17 @@
+﻿SUB_CATEGORY,Cancel_rate,Year,Month,Day
+CBPI,"0,03 %",2024,December,2
+CBPI,"0,09 %",2024,December,9
+CBPR,"0,01 %",2024,December,2
+CBPR,"0,02 %",2024,December,9
+Delay in Store,"0,02 %",2024,December,2
+Other,"0,03 %",2024,December,2
+Rescheduled Order,"0,02 %",2024,December,2
+Shopper Delay,"0,02 %",2024,December,2
+Stockout,"0,31 %",2024,December,2
+Stockout,"0,36 %",2024,December,9
+Store Closed,"0,03 %",2024,December,2
+Store Closed,"0,03 %",2024,December,9
+Delay in Store,0.00%,2024,December,9
+Other,0.00%,2024,December,9
+Rescheduled Order,0.00%,2024,December,9
+Shopper Delay,0.00%,2024,December,9
