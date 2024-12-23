@@ -1,0 +1,15 @@
+﻿CITY,Cancel_rate,LEVEL_3
+Puebla,"0,00 %",assignment_delay_store_closed
+Puebla,"0,03 %",automation_lack_close_rts
+Puebla,"0,77 %",automation_lack_of_rts_other
+Puebla,"0,32 %",cancel_by_user_no_rt_available
+Puebla,"0,00 %",delay_in_store_courier_far_and_late
+Puebla,"0,00 %",delay_in_store_courier_slow_late_courier
+Puebla,"0,01 %",delay_to_user_courier_delay
+Puebla,"0,01 %",long_order_lack_of_rt
+Puebla,"0,00 %",release_by_immobility_detection_problems
+Puebla,"0,01 %",rt_in_store_fast_release
+Puebla,"0,05 %",rt_releases_with_product
+Puebla,"0,16 %",slow_courier_delay_store_closed
+Puebla,"0,04 %",to_store_delay_far_from_store
+Puebla,"0,02 %",to_store_delay_slow_courier
