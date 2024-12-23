@@ -1,9 +1,9 @@
-﻿SUB_CATEGORY,Cancel_rate,Year,Month,Day
-Acceptance Rate,"0,00 %",2024,December,2
-Discipline Training,"0,25 %",2024,December,2
+SUB_CATEGORY,Cancel_rate,Year,Month,Day
+Acceptance Rate,"0,01 %",2024,December,16
 Discipline Training,"0,26 %",2024,December,9
-Distribution,"0,08 %",2024,December,2
-Distribution,"0,03 %",2024,December,9
-Lack of Couriers,"1,11 %",2024,December,2
-Lack of Couriers,"0,50 %",2024,December,9
+Discipline Training,"0,14 %",2024,December,16
+Distribution,"0,15 %",2024,December,9
+Distribution,"0,07 %",2024,December,16
+Lack of Couriers,"1,56 %",2024,December,9
+Lack of Couriers,"0,77 %",2024,December,16
 Acceptance Rate,"0,00 %",2024,December,9

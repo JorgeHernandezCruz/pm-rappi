@@ -1,17 +1,17 @@
-﻿SUB_CATEGORY,Cancel_rate,Year,Month,Day
-Disagree with Charges,"0,02 %",2024,December,2
-Disagree with Charges,"0,08 %",2024,December,9
-Long ETA,"0,19 %",2024,December,2
-Long ETA,"0,24 %",2024,December,9
-Other,"0,11 %",2024,December,2
-Other,"0,06 %",2024,December,9
-Promo not applied,"0,02 %",2024,December,2
-Promo not applied,"0,03 %",2024,December,9
-Rappicredits,"0,02 %",2024,December,2
-Rappicredits,"0,02 %",2024,December,9
-Wrong Payment Method,"0,01 %",2024,December,2
-Wrong Payment Method,"0,05 %",2024,December,9
-Wrong Product,"0,05 %",2024,December,2
-Wrong Product,"0,03 %",2024,December,9
-Wrong User Address,"0,05 %",2024,December,2
-Wrong User Address,"0,06 %",2024,December,9
+SUB_CATEGORY,Cancel_rate,Year,Month,Day
+Disagree with Charges,"0,03 %",2024,December,9
+Disagree with Charges,"0,09 %",2024,December,16
+Long ETA,"0,20 %",2024,December,9
+Long ETA,"0,10 %",2024,December,16
+Other,"0,12 %",2024,December,9
+Other,"0,16 %",2024,December,16
+Promo not applied,"0,02 %",2024,December,9
+Promo not applied,"0,01 %",2024,December,16
+Rappicredits,"0,01 %",2024,December,9
+Rappicredits,"0,01 %",2024,December,16
+Wrong Payment Method,"0,02 %",2024,December,9
+Wrong Product,"0,10 %",2024,December,9
+Wrong Product,"0,05 %",2024,December,16
+Wrong User Address,"0,05 %",2024,December,9
+Wrong User Address,"0,07 %",2024,December,16
+Wrong Payment Method,"0,00 %",2024,December,16
