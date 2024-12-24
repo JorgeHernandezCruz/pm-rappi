@@ -1,0 +1,17 @@
+﻿CITY,Cancel_rate,LEVEL_3
+Puebla,"0,01 %",cancel_order_by_picker
+Puebla,"0,03 %",cbpi_partner
+Puebla,"0,01 %",cpor_ran_out_products
+Puebla,"0,01 %",delay_in_store_other_problems
+Puebla,"0,00 %",delay_in_store_tech_issues
+Puebla,"0,02 %",mitienda_products_not_available
+Puebla,"0,02 %",order_rescheduled
+Puebla,"0,02 %",partner_other
+Puebla,"0,01 %",partner_price_difference
+Puebla,"0,01 %",product_not_available_best_guess
+Puebla,"0,01 %",shopper_assignment_delay
+Puebla,"0,01 %",shopper_begin_picking_delay
+Puebla,"0,06 %",stockout_no_automation_removed_product
+Puebla,"0,22 %",stockout_no_automation_typification
+Puebla,"0,02 %",store_closed
+Puebla,"0,01 %",support_cancelled_no_sk_marketplace_store_closed
