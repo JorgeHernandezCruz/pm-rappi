@@ -10,3 +10,5 @@ nota recordar las categorias que faltan y agregarlas
 nota preguntar sobre la clasificacion de las categorias y ver si existe
 forma de comparar con un if si la categoria esta y si no esta meterla dentro del
 data frame
+Nota agregar los iguales por si hay valores wo iguales en todos los ifs
+Nota investigar si se puede agregar info al df de categorias faltantes
