@@ -6,3 +6,4 @@ cada subcategoria subcategoria son las tablas con porcentaje
 de lo contrario no funcionara el programa
 nota: al cargar level 3 seleccionar semana y crear un diccionario por categoria con su porcentaje 
 Para rt explicar subcategorias y cargar ordenes nominativas para todas las cat ‪
+nota recordar las categorias que faltan y agregarlas
