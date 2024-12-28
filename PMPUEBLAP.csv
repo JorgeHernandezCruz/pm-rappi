@@ -1,0 +1,15 @@
+﻿Year,Month,Day,CANCEL_RATE,CANCEL_ORDERS,TOTAL_ORDERS,CATEGORY
+2024,December,16,"0,00 %",0,6888,Finished
+2024,December,16,"0,06 %",4,6888,Other
+2024,December,16,"0,58 %",40,6888,Partner
+2024,December,16,"0,93 %",64,6888,RT
+2024,December,16,"0,30 %",21,6888,Tech
+2024,December,16,"0,61 %",42,6888,User
+2024,December,16,"0,42 %",29,6888,UX
+2024,December,23,"0,00 %",0,5392,Finished
+2024,December,23,"0,30 %",16,5392,Other
+2024,December,23,"0,57 %",31,5392,Partner
+2024,December,23,"0,57 %",60,5392,RT
+2024,December,23,"0,20 %",11,5392,Tech
+2024,December,23,"0,70 %",38,5392,User
+2024,December,23,"0,41 %",22,5392,UX
