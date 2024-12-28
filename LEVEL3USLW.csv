@@ -1,8 +1,8 @@
-﻿CITY,Cancel_rate,LEVEL_3
-Puebla,"0,05 %",early_regret_with_take
-Puebla,"0,29 %",no_user_answer
-Puebla,"0,19 %",possible_early_regret
-Puebla,"0,01 %",rt_releases_with_product_user_not_available
-Puebla,"0,07 %",to_store_delay_bundles_user_cancelation
-Puebla,"0,09 %",user_other
+CITY,Cancel_rate,LEVEL_3
+Puebla,"0,03 %",early_regret_with_take
+Puebla,"0,28 %",no_user_answer
+Puebla,"0,22 %",possible_early_regret
+Puebla,"0,01 %",to_store_delay_bundles_user_cancelation
+Puebla,"0,06 %",user_other
 Puebla,"0,01 %",user_regret
+Puebla,"0,00 %",rt_releases_with_product_user_not_available

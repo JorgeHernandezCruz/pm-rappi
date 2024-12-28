@@ -1,11 +1,11 @@
 SUB_CATEGORY,Cancel_rate,Year,Month,Day
-Batch Bundling,"0,13 %",2024,December,9
-Batch Bundling,"0,01 %",2024,December,16
-Dispersion,"0,02 %",2024,December,9
-Dispersion,"0,03 %",2024,December,16
-Integration Error,"0,12 %",2024,December,9
-Integration Error,"0,05 %",2024,December,16
-Other,"0,01 %",2024,December,9
-Other,"0,04 %",2024,December,16
+Batch Bundling,"0,07 %",2024,December,16
+Dispersion,"0,06 %",2024,December,23
+Integration Error,"0,12 %",2024,December,16
+Integration Error,"0,09 %",2024,December,23
+Other,"0,10 %",2024,December,16
+Other,"0,06 %",2024,December,23
 Tablet Error,"0,01 %",2024,December,16
-Tablet Error,"0,00 %",2024,December,9
+Batch Bundling,"0,00 %",2024,December,23
+Dispersion,"0,00 %",2024,December,16
+Tablet Error,"0,00 %",2024,December,23
