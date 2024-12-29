@@ -41,3 +41,4 @@ df = pd.concat([df, new_df], ignore_index=True)
 
 # Mostrar el DataFrame actualizado
 print(df)
+If categoria en la posicion by day y es igual a la categoria tal entonces agrega la siguiente categoria con valor 0
