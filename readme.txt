@@ -43,3 +43,4 @@ df = pd.concat([df, new_df], ignore_index=True)
 print(df)
 If categoria en la posicion by day y es igual a la categoria tal entonces agrega la siguiente categoria con valor 0
 Revisar todas as categorias level 3 rt en un file copia 
+se agrega en v2 hasta sub user revisar las demas
