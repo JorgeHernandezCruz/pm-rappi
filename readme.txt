@@ -14,33 +14,4 @@ Nota agregar los iguales por si hay valores wo iguales en todos los ifs
 Nota investigar si se puede agregar info al df de categorias faltantes
 Hacer prueba de agregar info con este bloque
 import pandas as pd
-
-# Crear el DataFrame original
-data = {
-    "SUB_CATEGORY": ["Discipline", "Early Regret", "Other", "Discipline", "Early Regret", "Other"],
-    "Cancel_rate": ["0,37 %", "0,24 %", "0,09 %", "0,34 %", "0,04 %", "0,16 %"],
-    "Year": [2024, 2024, 2024, 2024, 2024, 2024],
-    "Month": ["December", "December", "December", "December", "December", "December"],
-    "Day": [9, 9, 9, 16, 16, 16],
-}
-df = pd.DataFrame(data)
-
-# Agregar nuevas filas al DataFrame
-new_data = {
-    "SUB_CATEGORY": ["Discipline", "Early Regret", "Other"],
-    "Cancel_rate": ["0,50 %", "0,30 %", "0,20 %"],
-    "Year": [2024, 2024, 2024],
-    "Month": ["December", "December", "December"],
-    "Day": [23, 23, 23],
-}
-
-new_df = pd.DataFrame(new_data)
-
-# Concatenar el DataFrame original con las nuevas filas
-df = pd.concat([df, new_df], ignore_index=True)
-
-# Mostrar el DataFrame actualizado
-print(df)
-If categoria en la posicion by day y es igual a la categoria tal entonces agrega la siguiente categoria con valor 0
-Revisar todas as categorias level 3 rt en un file copia 
-se agrega en v2 hasta sub user revisar las demas
+Nota 05-01-25 Revisar categorias Level 3 y generar un bloque que genere las faltantes y les agrege 0 al df
