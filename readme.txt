@@ -15,3 +15,4 @@ Nota investigar si se puede agregar info al df de categorias faltantes
 Hacer prueba de agregar info con este bloque
 import pandas as pd
 Nota 05-01-25 Revisar categorias Level 3 y generar un bloque que genere las faltantes y les agrege 0 al df
+Nota 07-01-25 Se debe imprimir una categoria str en el bloque por que si no no funciona xd
