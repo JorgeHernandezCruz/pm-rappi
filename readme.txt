@@ -18,4 +18,5 @@ Nota 05-01-25 Revisar categorias Level 3 y generar un bloque que genere las falt
 Nota 07-01-25 Se debe imprimir una categoria str en el bloque por que si no no funciona xd
 Nota 09'01'25 Revisar las fechas ahora January
  y remplazar bloques
+añadir nominativas
 cambiar plantilla para hacer pms sin que mi jefa sepa
