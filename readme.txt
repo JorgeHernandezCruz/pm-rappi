@@ -22,3 +22,4 @@ añadir nominativas
 cambiar plantilla para hacer pms sin que mi jefa sepa
 revisar la nueva plantilla y ajustar 
 recordar ajustar plantilla
+editar script nominativas
