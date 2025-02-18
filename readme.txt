@@ -24,4 +24,3 @@ revisar la nueva plantilla y ajustar
 recordar ajustar plantilla
 editar script nominativas
 revisar plantilla para nominativas
-gpi
